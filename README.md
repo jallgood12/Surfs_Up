@@ -1,6 +1,6 @@
 # Surfs_Up
 
-##Overview
+## Overview
 
 The main goal of this challenge is to look into the key differences in weather for the island of Oahu between June and December for an investor who wants to start a business. The business is a surf shop and an ice cream store so the differences in temperature will make a significant impact on whether the business is viable. The investor wants to ensure that temperatures will remain high enough to suppport their business and wants the data analyzed si they can make an informed decision.
 
